@@ -1,0 +1,2 @@
+# Text-Game-Adeventure
+ A text adventure game in which you play as a member of the all-female military, Woman King, with the mission to defeat the enemy and save your kingdom. The game is divided into three stages, each with its own set of challenges and choices. Your choices determine the outcome of the game, and there are two possible endings: winning or losing. The game uses the random module to add an element of chance to some events. This is a Python-based game that can be played on the command line.
